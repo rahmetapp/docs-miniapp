@@ -1,9 +1,8 @@
 site_name: Rahmet MINIAPP
 pages:
 - Главная: 'index.md'
-- Авторизация: 'auth.md'
-- Доступность оплаты: 'availability.md'
-- Создание заказа: 'order.md'
-- Проверка статуса: 'status.md'
-- Возврат: 'refund.md'
+- Бесшовная авторизация: 'auth.md'
+- Оплата: 'pay.md'
+- Реферальная программа: 'referralprogram.md'
+- Haptic Touch: 'haptic.md'
 theme: readthedocs
